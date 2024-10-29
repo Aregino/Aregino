@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá! Eu sou André Figueredo  👋
 
-<!--
-**Aregino/Aregino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Especialista em Inteligência de Negócios e Engenharia de Dados com mais de 10 anos de experiência em extração, modelagem e visualização de dados. Minha trajetória abrange desde a construção de arquiteturas de Data Lake e Data Warehouse até o desenvolvimento de pipelines em ambientes de nuvem, principalmente em Microsoft Azure.
 
-Here are some ideas to get you started:
+🔭 **Atualmente trabalho como** Especialista BI, focado em transformar dados em insights estratégicos com ferramentas como Power BI, Qlik Sense e Azure Synapse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Estou aprendendo** sobre Data Lake no Microsoft Fabric e aprimorando minha arquitetura com camadas Medallion e padrões de segurança.
+
+👯 **Busco colaborar** em projetos de engenharia de dados e arquitetura de pipelines.
+
+💬 **Pergunte-me sobre** visualização de dados, ETL, Synapse, e arquitetura de dados.
+
+📫 **Como me encontrar**: [LinkedIn](https://www.linkedin.com/in/andre-figueredo-8b902553/)
+
+⚡ **Curiosidade**: Sou fascinado por novas tecnologias de dados, luto Krav Maga 🥋  e faço musculação 
